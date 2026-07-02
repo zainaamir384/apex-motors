@@ -6,6 +6,9 @@ Apex Motors is a modern frontend landing page project based on a luxury and perf
 
 This project was created to practice modern landing page design, responsive layouts, smooth animations, hover effects, glassmorphism styling, theme switching, and clean frontend development.
 
+## Live demo
+https://apex-motors-lemon.vercel.app/
+
 ## Project Overview
 
 Apex Motors is a frontend-only car dealership landing page. It includes a hero section, featured car collection, dealership benefits, luxury experience section, services section, call-to-action area, and footer.
